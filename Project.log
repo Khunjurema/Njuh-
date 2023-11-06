@@ -1,0 +1,24 @@
+Sat 02/13/2016  5:31:54.79 Project Version Date: 10-05-2015. 
+Sat 02/13/2016  5:31:54.79 Files present and extracted successfully. 
+Sat 02/13/2016  5:31:55.02 OEMs folder found successfully. 
+Sat 02/13/2016  5:31:55.13 Defined Windows 10 Pro x64 version Professional editon found. 
+Sat 02/13/2016  5:31:59.90 Defined DELL manufacture found for branding and possible activation. 
+Sat 02/13/2016  5:32:01.52 Error, no OEM-DM key present. 
+Sat 02/13/2016  5:32:02.48 License Status: Error, not licensed. 
+Sat 02/13/2016  5:32:02.48 Force theme text file not present. 
+Sat 02/13/2016  5:32:02.87 x64 reg file successfully ran and applied.
+Sat 02/13/2016  5:32:02.90 Syspdt found and applied successfully.
+Sat 02/13/2016  5:32:02.90 Backgrounds folder created successfully. 
+Sat 02/13/2016  5:32:02.90 Deletion of OOBE.xml file successful.  
+Sat 02/13/2016  5:32:02.91 User.bmp backed-up and replaced successfully.  
+Sat 02/13/2016  5:32:02.96 User.png backed-up and replaced successfully.  
+Sat 02/13/2016  5:32:02.98 User-40.png backed-up and replaced successfully.  
+Sat 02/13/2016  5:32:02.98 User-32.png backed-up and replaced successfully.  
+Sat 02/13/2016  5:32:02.98 User-48.png backed-up and replaced successfully.  
+Sat 02/13/2016  5:32:02.99 User-192.png backed-up and replaced successfully. 
+Sat 02/13/2016  5:32:02.99 Theme backed-up and replaced successfully. 
+Sat 02/13/2016  5:32:03.21 Img100.jpg backed-up and replaced successfully. 
+Sat 02/13/2016  5:32:11.18 Advanced logon screen for win 10 enabled successfully.
+Sat 02/13/2016  5:32:11.21 Files moved to System32\oobe\Info folder successfully. 
+Sat 02/13/2016  5:32:19.17 RunOnce reg entry added successfully.
+Sat 02/13/2016  5:32:19.17 Script has completed successfully.
